@@ -1,4 +1,4 @@
-# Sistema Crud em C
+# Sistema Crud em C++
 
 ### Sobre o projeto
 ***
